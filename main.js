@@ -1,7 +1,7 @@
 let mainCss = 'https://flynas-dev.oriserve.com/chatbot/static/css/main.fc566275.chunk.css';
-let runtimeJs = 'https://flynas-dev.oriserve.com/chatbot/static/js/runtime-main.370f127b.js';
-let chunkJs = 'https://flynas-dev.oriserve.com/chatbot/static/js/10.00b0c8ce.chunk.js';
-let mainJs = 'https://flynas-dev.oriserve.com/chatbot/static/js/main.c471ea37.chunk.js';
+let runtimeJs = 'https://flynas-dev.oriserve.com/chatbot/static/js/runtime-main.fee3e6d2.js';
+let chunkJs = 'https://flynas-dev.oriserve.com/chatbot/static/js/10.3fbdd707.chunk.js';
+let mainJs = 'https://flynas-dev.oriserve.com/chatbot/static/js/main.42bfacf4.chunk.js';
 
 function dynamicallyLoadScript(url) {
   const script = document.createElement("script");
